@@ -1,0 +1,3 @@
+/home/kingand67/Desktop/Linux网络编程/HTTP/buffalo-0.0.1/build/CMakeFiles/edit_cache.dir
+/home/kingand67/Desktop/Linux网络编程/HTTP/buffalo-0.0.1/build/CMakeFiles/rebuild_cache.dir
+/home/kingand67/Desktop/Linux网络编程/HTTP/buffalo-0.0.1/build/CMakeFiles/buffalo.dir
